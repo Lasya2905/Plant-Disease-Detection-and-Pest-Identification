@@ -42,7 +42,7 @@ The entire project is implemented in Google Colab.
 
 - Plant leaf images (healthy and diseased)
 - Pest images
-- Dataset collected from publicly available sources
+- Dataset collected from Kaggle
 
 The dataset is divided into:
 - Training data  
@@ -81,7 +81,7 @@ The dataset is divided into:
 - The model successfully classifies plant leaf images  
 - It predicts whether the plant is healthy or diseased  
 - It identifies pests present on the plant  
-- Accuracy and loss graphs were generated during training  
+- Accuracy and loss were generated during training  
 
 ---
 
