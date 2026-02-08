@@ -12,7 +12,7 @@ The system takes an image of a plant leaf as input and predicts whether the plan
 Plant diseases and pests reduce crop productivity and quality. Identifying them manually is difficult and time-consuming.  
 In this project, a deep learning model is trained using plant leaf images to automatically detect diseases and pests.
 
-The entire project is implemented in Jupyter Notebook using Google Colab.
+The entire project is implemented in Google Colab.
 
 ---
 
